@@ -16,6 +16,6 @@ def hanoi(n, orig='A', aux='B', dest='C'):
         hanoi(n - 1, aux, orig, dest)
 
 
-for i in range(1, 6):
+for i in range(1, 4):
     print('##### Hanoi %s' % i)
     hanoi(i)
