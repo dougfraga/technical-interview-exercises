@@ -31,5 +31,5 @@ def phoneword(phonenumber):
     return phoneword_rec([''], 0)
 
 
-# print(phoneword(''))
+print(phoneword(''))
 print(phoneword('736'))
