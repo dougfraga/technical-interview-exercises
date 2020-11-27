@@ -32,4 +32,4 @@ def phoneword(phonenumber):
 
 
 print(phoneword(''))
-print(phoneword('736'))
+print(phoneword('732'))
